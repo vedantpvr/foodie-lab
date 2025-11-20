@@ -1,0 +1,110 @@
+ANALYTICS SUMMARY
+==================
+
+Report generated: 2025-11-20T09:33:45.133Z
+
+SUMMARY STATS
+-------------
+Total recipes: 21
+Total ingredients rows: 11
+Total steps rows: 12
+Total interactions: 300
+Detected users (from interactions): 11
+
+1) MOST COMMON INGREDIENTS (top 20)
+----------------------------------
+1. chana dal — 1
+2. ghee — 1
+3. water — 1
+4. jaggery — 1
+5. cardamom powder — 1
+6. nutmeg powder — 1
+7. wheat flour — 1
+8. maida (optional) — 1
+9. turmeric powder — 1
+10. salt — 1
+11. oil — 1
+
+2) AVERAGE PREPARATION TIME (min)
+----------------------------------
+Average prep_time_min: 27.71
+
+3) AVERAGE COOK TIME (min)
+---------------------------
+Average cook_time_min: 31.62
+
+4) DIFFICULTY DISTRIBUTION
+---------------------------
+medium: 9
+hard: 8
+easy: 4
+
+5) MOST VIEWED RECIPES (top 10)
+--------------------------------
+1. Kheer (recipe_kheer) — 9 views
+2. Upma (recipe_upma) — 5 views
+3. Dal Tadka (recipe_dal_tadka) — 5 views
+4. Vada Pav (recipe_vada_pav) — 5 views
+5. Matar Paneer (recipe_matar_paneer) — 5 views
+6. Veg Pulao (recipe_veg_pulao) — 4 views
+7. Paneer Butter Masala (recipe_paneer_butter_masala) — 4 views
+8. Poha (recipe_poha) — 4 views
+9. Misal Pav (recipe_misal_pav) — 4 views
+10. Egg Curry (recipe_egg_curry) — 4 views
+
+6) MOST LIKED RECIPES (top 10)
+-------------------------------
+1. Palak Paneer (recipe_palak_paneer) — 7 likes
+2. Fish Curry (recipe_fish_curry) — 6 likes
+3. Veg Pulao (recipe_veg_pulao) — 5 likes
+4. Jeera Rice (recipe_jeera_rice) — 4 likes
+5. Gulab Jamun (recipe_gulab_jamun) — 4 likes
+6. Poha (recipe_poha) — 4 likes
+7. Paneer Butter Masala (recipe_paneer_butter_masala) — 4 likes
+8. Dal Tadka (recipe_dal_tadka) — 4 likes
+9. Kheer (recipe_kheer) — 4 likes
+10. Upma (recipe_upma) — 4 likes
+
+7) MOST COOK-ATTEMPTED RECIPES (top 10)
+----------------------------------------
+1. Gulab Jamun (recipe_gulab_jamun) — 9 attempts
+2. Sabudana Khichdi (recipe_sabudana_khichdi) — 6 attempts
+3. Upma (recipe_upma) — 6 attempts
+4. Shrikhand (recipe_shrikhand) — 5 attempts
+5. Kheer (recipe_kheer) — 5 attempts
+6. Egg Curry (recipe_egg_curry) — 5 attempts
+7. Masala Dosa (recipe_masala_dosa) — 5 attempts
+8. Jeera Rice (recipe_jeera_rice) — 4 attempts
+9. Vada Pav (recipe_vada_pav) — 4 attempts
+10. Veg Pulao (recipe_veg_pulao) — 3 attempts
+
+8) AVERAGE RATING PER RECIPE (top 10)
+-------------------------------------
+1. Upma (recipe_upma) — avg rating: 5.00
+2. Veg Pulao (recipe_veg_pulao) — avg rating: 5.00
+3. Palak Paneer (recipe_palak_paneer) — avg rating: 5.00
+4. Puran Poli (recipe_puran_poli) — avg rating: 4.67
+5. Dal Tadka (recipe_dal_tadka) — avg rating: 4.33
+6. Jeera Rice (recipe_jeera_rice) — avg rating: 4.33
+7. Masala Dosa (recipe_masala_dosa) — avg rating: 4.33
+8. Sabudana Khichdi (recipe_sabudana_khichdi) — avg rating: 4.00
+9. Poha (recipe_poha) — avg rating: 4.00
+10. Misal Pav (recipe_misal_pav) — avg rating: 4.00
+
+9) CORRELATION: PREP TIME vs LIKE COUNT
+---------------------------------------
+Pearson correlation (prep_time_min vs like_count): 0.2073
+
+10) INGREDIENTS IN TOP-LIKED RECIPES (top 20)
+---------------------------------------------
+No ingredient data for top-liked recipes.
+
+11) INGREDIENTS ASSOCIATED WITH HIGH-ENGAGEMENT RECIPES (top 20)
+-----------------------------------------------------------------
+No high-engagement ingredient data available.
+
+12) NOTES & NEXT STEPS
+----------------------
+- Use timestamps to compute time-windowed metrics (e.g., last 30 days).
+- If you want visualizations (bar charts, correlation plots), I can generate them separately.
+- For high-volume projects, move aggregations to a DB or use streaming/BigQuery.

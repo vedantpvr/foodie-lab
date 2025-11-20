@@ -1,0 +1,12 @@
+recipe_id,ingredient_id,name,quantity,unit,notes,order
+recipe_puran_poli,ing1,chana dal,1,cup,soaked 2–3 hours,1
+recipe_puran_poli,ing10,ghee,4,tbsp,for roasting polis,10
+recipe_puran_poli,ing11,water,1,cup,as required for dough,11
+recipe_puran_poli,ing2,jaggery,1,cup,grated,2
+recipe_puran_poli,ing3,cardamom powder,0.5,tsp,,3
+recipe_puran_poli,ing4,nutmeg powder,0.25,tsp,optional,4
+recipe_puran_poli,ing5,wheat flour,2,cups,,5
+recipe_puran_poli,ing6,maida (optional),0.5,cup,,6
+recipe_puran_poli,ing7,turmeric powder,0.25,tsp,,7
+recipe_puran_poli,ing8,salt,0.25,tsp,,8
+recipe_puran_poli,ing9,oil,2,tbsp,for dough,9

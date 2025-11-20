@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Firebase service account key (very sensitive!)
+serviceAccountKey.json
+
+# Optional good practice
+.env
+
