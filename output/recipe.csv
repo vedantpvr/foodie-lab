@@ -1,22 +1,22 @@
 recipe_id,name,description,servings,prep_time_min,cook_time_min,total_time_min,difficulty,cuisine,tags,author_user_id,created_at
-recipe_aloo_paratha,Aloo Paratha,Synthetic recipe: Aloo Paratha,4,23,35,58,medium,Indian,synthetic,user3,2025-11-20T09:15:20.211Z
-recipe_chicken_biryani,Chicken Biryani,Synthetic recipe: Chicken Biryani,2,29,34,63,hard,Indian,synthetic,user1,2025-11-20T09:15:20.637Z
-recipe_dal_tadka,Dal Tadka,Synthetic recipe: Dal Tadka,4,15,39,54,medium,Indian,synthetic,user1,2025-11-20T09:15:20.444Z
-recipe_egg_curry,Egg Curry,Synthetic recipe: Egg Curry,5,24,45,69,easy,Indian,synthetic,user3,2025-11-20T09:15:20.734Z
-recipe_fish_curry,Fish Curry,Synthetic recipe: Fish Curry,6,28,18,46,hard,Indian,synthetic,user1,2025-11-20T09:15:20.702Z
-recipe_gulab_jamun,Gulab Jamun,Synthetic recipe: Gulab Jamun,4,24,13,37,easy,Indian,synthetic,user3,2025-11-20T09:15:20.132Z
-recipe_idli_sambhar,Idli Sambhar,Synthetic recipe: Idli Sambhar,3,26,48,74,medium,Indian,synthetic,user1,2025-11-20T09:15:20.594Z
-recipe_jeera_rice,Jeera Rice,Synthetic recipe: Jeera Rice,2,25,33,58,hard,Indian,synthetic,user2,2025-11-20T09:15:20.475Z
-recipe_kheer,Kheer,Synthetic recipe: Kheer,4,26,45,71,medium,Indian,synthetic,user2,2025-11-20T09:15:20.184Z
-recipe_masala_dosa,Masala Dosa,Synthetic recipe: Masala Dosa,5,35,33,68,easy,Indian,synthetic,user2,2025-11-20T09:15:19.839Z
-recipe_matar_paneer,Matar Paneer,Synthetic recipe: Matar Paneer,2,33,11,44,hard,Indian,synthetic,user3,2025-11-20T09:15:20.762Z
-recipe_misal_pav,Misal Pav,Synthetic recipe: Misal Pav,2,28,29,57,medium,Indian,synthetic,user3,2025-11-20T09:15:20.312Z
-recipe_palak_paneer,Palak Paneer,Synthetic recipe: Palak Paneer,2,40,18,58,hard,Indian,synthetic,user2,2025-11-20T09:15:20.525Z
-recipe_paneer_butter_masala,Paneer Butter Masala,Synthetic recipe: Paneer Butter Masala,5,36,32,68,medium,Indian,synthetic,user3,2025-11-20T09:15:19.894Z
-recipe_poha,Poha,Synthetic recipe: Poha,6,14,18,32,medium,Indian,synthetic,user3,2025-11-20T09:15:20.261Z
-recipe_puran_poli,Puran Poli,"Traditional Maharashtrian sweet flatbread stuffed with chana dal and jaggery, made for festivals.",4,45,30,75,medium,Indian,"sweet,festival,maharashtrian",user_vedant,2025-11-20T09:15:16.659Z
-recipe_sabudana_khichdi,Sabudana Khichdi,Synthetic recipe: Sabudana Khichdi,2,21,37,58,hard,Indian,synthetic,user1,2025-11-20T09:15:20.370Z
-recipe_shrikhand,Shrikhand,Synthetic recipe: Shrikhand,4,13,44,57,medium,Indian,synthetic,user2,2025-11-20T09:15:20.406Z
-recipe_upma,Upma,Synthetic recipe: Upma,6,40,23,63,hard,Indian,synthetic,user2,2025-11-20T09:15:20.560Z
-recipe_vada_pav,Vada Pav,Synthetic recipe: Vada Pav,4,30,29,59,hard,Indian,synthetic,user2,2025-11-20T09:15:20.341Z
-recipe_veg_pulao,Veg Pulao,Synthetic recipe: Veg Pulao,3,27,50,77,easy,Indian,synthetic,user2,2025-11-20T09:15:19.946Z
+recipe_aloo_paratha,Aloo Paratha,Synthetic recipe: Aloo Paratha,4,26,26,52,medium,Indian,synthetic,user2,2025-11-21T05:49:08.988Z
+recipe_chicken_biryani,Chicken Biryani,Synthetic recipe: Chicken Biryani,2,35,33,68,medium,Indian,synthetic,user3,2025-11-21T05:49:09.738Z
+recipe_dal_tadka,Dal Tadka,Synthetic recipe: Dal Tadka,3,21,23,44,easy,Indian,synthetic,user1,2025-11-21T05:49:09.476Z
+recipe_egg_curry,Egg Curry,Synthetic recipe: Egg Curry,6,35,46,81,easy,Indian,synthetic,user3,2025-11-21T05:49:09.828Z
+recipe_fish_curry,Fish Curry,Synthetic recipe: Fish Curry,3,33,21,54,easy,Indian,synthetic,user3,2025-11-21T05:49:09.786Z
+recipe_gulab_jamun,Gulab Jamun,Synthetic recipe: Gulab Jamun,5,21,50,71,medium,Indian,synthetic,user3,2025-11-21T05:49:08.903Z
+recipe_idli_sambhar,Idli Sambhar,Synthetic recipe: Idli Sambhar,3,37,16,53,hard,Indian,synthetic,user1,2025-11-21T05:49:09.684Z
+recipe_jeera_rice,Jeera Rice,Synthetic recipe: Jeera Rice,2,25,19,44,easy,Indian,synthetic,user1,2025-11-21T05:49:09.520Z
+recipe_kheer,Kheer,Synthetic recipe: Kheer,2,20,25,45,medium,Indian,synthetic,user1,2025-11-21T05:49:08.947Z
+recipe_masala_dosa,Masala Dosa,Synthetic recipe: Masala Dosa,2,11,34,45,medium,Indian,synthetic,user1,2025-11-21T05:49:08.757Z
+recipe_matar_paneer,Matar Paneer,Synthetic recipe: Matar Paneer,2,12,16,28,hard,Indian,synthetic,user2,2025-11-21T05:49:09.888Z
+recipe_misal_pav,Misal Pav,Synthetic recipe: Misal Pav,4,35,28,63,easy,Indian,synthetic,user1,2025-11-21T05:49:09.324Z
+recipe_palak_paneer,Palak Paneer,Synthetic recipe: Palak Paneer,2,16,25,41,medium,Indian,synthetic,user1,2025-11-21T05:49:09.557Z
+recipe_paneer_butter_masala,Paneer Butter Masala,Synthetic recipe: Paneer Butter Masala,3,34,37,71,hard,Indian,synthetic,user3,2025-11-21T05:49:08.804Z
+recipe_poha,Poha,Synthetic recipe: Poha,2,11,32,43,hard,Indian,synthetic,user3,2025-11-21T05:49:09.024Z
+recipe_puran_poli,Puran Poli,"Traditional Maharashtrian sweet flatbread stuffed with chana dal and jaggery, made for festivals.",4,45,30,75,medium,Indian,"sweet,festival,maharashtrian",user_vedant,2025-11-21T05:49:06.147Z
+recipe_sabudana_khichdi,Sabudana Khichdi,Synthetic recipe: Sabudana Khichdi,2,29,18,47,medium,Indian,synthetic,user1,2025-11-21T05:49:09.392Z
+recipe_shrikhand,Shrikhand,Synthetic recipe: Shrikhand,4,29,47,76,hard,Indian,synthetic,user3,2025-11-21T05:49:09.431Z
+recipe_upma,Upma,Synthetic recipe: Upma,2,20,29,49,medium,Indian,synthetic,user1,2025-11-21T05:49:09.590Z
+recipe_vada_pav,Vada Pav,Synthetic recipe: Vada Pav,4,14,35,49,easy,Indian,synthetic,user2,2025-11-21T05:49:09.363Z
+recipe_veg_pulao,Veg Pulao,Synthetic recipe: Veg Pulao,5,13,44,57,hard,Indian,synthetic,user2,2025-11-21T05:49:08.859Z

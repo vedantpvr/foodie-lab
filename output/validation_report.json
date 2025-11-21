@@ -1,0 +1,17 @@
+{
+  "generated_at": "2025-11-21T11:41:22.185Z",
+  "totals": {
+    "recipes": 21,
+    "ingredients": 11,
+    "steps": 12,
+    "interactions": 300
+  },
+  "valid_counts": {
+    "recipes": 21,
+    "ingredients": 11,
+    "steps": 12,
+    "interactions": 300
+  },
+  "invalid_count": 0,
+  "invalid_records": []
+}

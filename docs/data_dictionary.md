@@ -39,3 +39,9 @@
 - source (string)
 - created_at (ISO timestamp)
 
+## users.csv
+- user_id (string)
+- name (string)
+- email (string)
+- country (string)
+- created_at (ISO timestamp)

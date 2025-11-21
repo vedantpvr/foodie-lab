@@ -7,3 +7,10 @@ serviceAccountKey.json
 # Optional good practice
 .env
 
+# image 
+image.png
+image-1.png
+
+# ignore
+package.json
+package-lock.json

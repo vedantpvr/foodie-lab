@@ -1,7 +1,7 @@
 ANALYTICS SUMMARY
 ==================
 
-Report generated: 2025-11-20T09:33:45.133Z
+Report generated: 2025-11-21T05:50:40.742Z
 
 SUMMARY STATS
 -------------
@@ -103,8 +103,3 @@ No ingredient data for top-liked recipes.
 -----------------------------------------------------------------
 No high-engagement ingredient data available.
 
-12) NOTES & NEXT STEPS
-----------------------
-- Use timestamps to compute time-windowed metrics (e.g., last 30 days).
-- If you want visualizations (bar charts, correlation plots), I can generate them separately.
-- For high-volume projects, move aggregations to a DB or use streaming/BigQuery.
