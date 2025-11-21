@@ -17,7 +17,48 @@ A complete Data Engineering pipeline that generates synthetic recipe data, creat
 
 
 ---
-
+recipe_analytics_pipeline/
+│
+├── README.md
+├── .gitignore
+│
+├── data/
+│   ├── recipe.csv
+│   ├── ingredients.csv
+│   ├── steps.csv
+│   ├── users.csv
+│   ├── interactions.csv
+│
+├── etl/
+│   ├── export_firestore_to_csv.py
+│   ├── seed_firestore.py
+│   └── (ServiceAccountKey.json removed for security)
+│
+├── Validation/
+│   ├── validate_data.py
+│   └── validation_report.txt
+│
+├── analytics/
+│   ├── analytics_report.py
+│   ├── analytics_charts.py
+│   ├── insights_report.csv
+│   ├── insights_report.txt
+│
+│   ├── Charts/
+│   │   ├── chart_boxplot_ratings.png
+│   │   ├── chart_bubble_views_likes_rating.png
+│   │   ├── chart_correlation_matrix.png
+│   │   ├── chart_difficulty_donut.png
+│   │   ├── chart_heatmap_views_likes.png
+│   │   ├── chart_preptime_vs_cooktime.png
+│   │   ├── chart_treemap_ingredients.png
+│   │   └── chart_user_activity.png
+│
+├── Diagrams/
+│   ├── Architecture_Diagram.png
+│   └── ER_Diagram.png
+│
+└── requirements.txt
 ## 1. Overview
 This project implements a complete Data Engineering pipeline that generates synthetic recipe data, loads it into a Firebase NoSQL database, extracts it into a normalized relational schema (CSV), and performs data quality validation and analytics.
 
